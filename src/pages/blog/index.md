@@ -3,9 +3,10 @@ templateKey: blog-archive
 pageSlug: /blog
 pageTitle: Blog
 subheader: null
-metaDescription: A blog is a type of website or online platform where
-  individuals or groups regularly post content, typically in the form of
-  articles, diary entries, or commentary on various topics.
+metaDescription: From 2020 to 2022, she worked as an assistant teacher at
+  AppleTree Preschool. In this role, she developed and implemented lesson plans
+  following the curriculum while creating a safe and stimulating learning
+  environment for the children.
 published: true
 schemaType: WebPage
 header: Blog
