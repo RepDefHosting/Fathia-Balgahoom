@@ -1,26 +1,26 @@
 ---
 templateKey: site-data
 published: true
-name: Client Name
-jobTitle: Client's Job Title
-location: City, State, Country
+name: Fathia Balgahoom
+jobTitle: Experienced Special Needs Educator
+location: Bergen County, NJ
 profileImage:
-  src: /img/default-profile-male.png
-  alt: Client's headshot
-siteUrl: https://url.com
+  src: /img/fathia-balgahoom-experienced-special-needs-educator.jpeg
+  alt: Fathia Balgahoom - Experienced Special Needs Educator
+siteUrl: https://www.aboutfathiabalgahoom.com/
 socialLinks:
   twitter:
     url: https://www.x.com
     label: Visit
-    show: true
+    show: false
   facebook:
     url: https://www.facebook.com
     label: Visit
-    show: true
+    show: false
   linkedin:
     url: https://www.linkedin.com
     label: Visit
-    show: true
+    show: false
   pinterest:
     url: null
     label: Visit
