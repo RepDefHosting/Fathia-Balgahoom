@@ -12,7 +12,7 @@ learnMoreButton:
 subheader: Client's Subtitle
 pageSlug: /
 featuredImage:
-  src: /img/blogginghero.png
+  src: /img/sunsethero.png
   alt: "Fathia Balgahoom has been involved in integrating culturally relevant
     pedagogy and creating individualized "
   caption: null
