@@ -12,7 +12,7 @@ published: true
 schemaType: ProfilePage
 header: Fathia Balgahoom
 featuredImage:
-  src: /img/herotrees.png
+  src: /img/sunsethero.png
   alt: Hero Image
   caption: null
 connectWithMe: Bergen County
