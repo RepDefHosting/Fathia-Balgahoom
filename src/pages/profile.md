@@ -63,7 +63,7 @@ discoverConnectExplore: NJ
 longBiography_MD: |
   {{long_biography}}
 ---
-![Fathia Balgahoom](/img/fathia-balgahoom-experienced-special-needs-educator.jpeg "Fathia Balgahoom")
+![Fathia Balgahoom](/img/fathia-balgahoom-experienced-special-needs-educator2.jpeg "Fathia Balgahoom")
 
 Fathia Balgahoom is an educator currently pursuing a master’s degree in Special Education and Inclusive Practices at Rowan University Global. Professionally, Fathia Balgahoom has gained experience in education through various roles.
 
