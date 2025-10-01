@@ -63,6 +63,8 @@ discoverConnectExplore: NJ
 longBiography_MD: |
   {{long_biography}}
 ---
+![Fathia Balgahoom](/img/fathia-balgahoom-experienced-special-needs-educator.jpeg "Fathia Balgahoom")
+
 Fathia Balgahoom is an educator currently pursuing a master’s degree in Special Education and Inclusive Practices at Rowan University Global. Professionally, Fathia Balgahoom has gained experience in education through various roles.
 
 As a high school teacher, Fathia Balgahoom has been involved in integrating culturally relevant pedagogy and creating individualized materials to meet the needs of students with disabilities. Beyond her teaching responsibilities, she has participated in initiatives like the Bridgemen Believe Mentor Program, working closely with students to meet their academic, social, and emotional needs.
